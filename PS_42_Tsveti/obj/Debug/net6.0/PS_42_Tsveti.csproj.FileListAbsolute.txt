@@ -1,0 +1,15 @@
+D:\TY_2020\6sem\PS\Exercise\PS_42_Tsveti\PS_42_Tsveti\obj\Debug\net6.0\PS_42_Tsveti.csproj.AssemblyReference.cache
+D:\TY_2020\6sem\PS\Exercise\PS_42_Tsveti\PS_42_Tsveti\obj\Debug\net6.0\PS_42_Tsveti.GeneratedMSBuildEditorConfig.editorconfig
+D:\TY_2020\6sem\PS\Exercise\PS_42_Tsveti\PS_42_Tsveti\obj\Debug\net6.0\PS_42_Tsveti.AssemblyInfoInputs.cache
+D:\TY_2020\6sem\PS\Exercise\PS_42_Tsveti\PS_42_Tsveti\obj\Debug\net6.0\PS_42_Tsveti.AssemblyInfo.cs
+D:\TY_2020\6sem\PS\Exercise\PS_42_Tsveti\PS_42_Tsveti\obj\Debug\net6.0\PS_42_Tsveti.csproj.CoreCompileInputs.cache
+D:\TY_2020\6sem\PS\Exercise\PS_42_Tsveti\PS_42_Tsveti\bin\Debug\net6.0\PS_42_Tsveti.exe
+D:\TY_2020\6sem\PS\Exercise\PS_42_Tsveti\PS_42_Tsveti\bin\Debug\net6.0\PS_42_Tsveti.deps.json
+D:\TY_2020\6sem\PS\Exercise\PS_42_Tsveti\PS_42_Tsveti\bin\Debug\net6.0\PS_42_Tsveti.runtimeconfig.json
+D:\TY_2020\6sem\PS\Exercise\PS_42_Tsveti\PS_42_Tsveti\bin\Debug\net6.0\PS_42_Tsveti.dll
+D:\TY_2020\6sem\PS\Exercise\PS_42_Tsveti\PS_42_Tsveti\bin\Debug\net6.0\PS_42_Tsveti.pdb
+D:\TY_2020\6sem\PS\Exercise\PS_42_Tsveti\PS_42_Tsveti\obj\Debug\net6.0\PS_42_Tsveti.dll
+D:\TY_2020\6sem\PS\Exercise\PS_42_Tsveti\PS_42_Tsveti\obj\Debug\net6.0\refint\PS_42_Tsveti.dll
+D:\TY_2020\6sem\PS\Exercise\PS_42_Tsveti\PS_42_Tsveti\obj\Debug\net6.0\PS_42_Tsveti.pdb
+D:\TY_2020\6sem\PS\Exercise\PS_42_Tsveti\PS_42_Tsveti\obj\Debug\net6.0\PS_42_Tsveti.genruntimeconfig.cache
+D:\TY_2020\6sem\PS\Exercise\PS_42_Tsveti\PS_42_Tsveti\obj\Debug\net6.0\ref\PS_42_Tsveti.dll
